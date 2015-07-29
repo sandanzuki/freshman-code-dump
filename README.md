@@ -1,2 +1,5 @@
 # freshman-code-dump
-coursework from my freshman year of college
+
+fall '13 / spring '14
+
+
