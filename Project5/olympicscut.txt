@@ -1,0 +1,10 @@
+Athlete	Age	Country	Year	Closing Ceremony Date	Sport	Gold Medals	Silver Medals	Bronze Medals	Total Medals
+Rohullah Nikpai	25	Afghanistan	2012	8/12/2012	Taekwondo	0	0	1	1
+Rohullah Nikpai	21	Afghanistan	2008	8/24/2008	Taekwondo	0	0	1	1
+Amar Benikhlef	26	Algeria	2008	8/24/2008	Judo	0	1	0	1
+Soraya Haddad	23	Algeria	2008	8/24/2008	Judo	0	0	1	1
+Mohamed Allalou	26	Algeria	2000	10/1/2000	Boxing	0	0	1	1
+Taoufik Makhloufi	24	Algeria	2012	8/12/2012	Athletics	1	0	0	1
+Abderrahmane Hammad	23	Algeria	2000	10/1/2000	Athletics	0	0	1	1
+Noria Mérah-Benida	29	Algeria	2000	10/1/2000	Athletics	1	0	0	1
+Djabir Saïd-Guerni	23	Algeria	2000	10/1/2000	Athletics	0	0	1	1
